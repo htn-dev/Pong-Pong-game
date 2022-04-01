@@ -39,7 +39,7 @@ hit_ball.dy = -5
 left_player = 0
 right_player = 0
  
- 
+
 # Displays the score
 sketch = turtle.Turtle()
 sketch.speed(0)
