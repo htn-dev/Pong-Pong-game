@@ -25,7 +25,6 @@ right_pad.shapesize(stretch_wid=6, stretch_len=2)
 right_pad.penup()
 right_pad.goto(400, 0)
 
-
 # Ball of circle shape
 hit_ball = turtle.Turtle()
 hit_ball.speed(40)
