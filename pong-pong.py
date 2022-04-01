@@ -16,7 +16,6 @@ left_pad.shapesize(stretch_wid=6, stretch_len=2)
 left_pad.penup()
 left_pad.goto(-400, 0)
 
-
 # Right paddle
 right_pad = turtle.Turtle()
 right_pad.speed(0)
