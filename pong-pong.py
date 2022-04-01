@@ -1,5 +1,6 @@
 # Import required library
 import turtle
+
 # Create screen
 sc = turtle.Screen()
 sc.title("Pong game")
